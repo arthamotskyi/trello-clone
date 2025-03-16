@@ -1,3 +1,6 @@
+# Модульна контрольна робота №1
+## Виконав студент групи Б-121-22-5-ПІ, Гамоцький Артем
+
 # Проєкт 1(Trello-Clone)
 ## Розробка та контроль якості веб-додатка для управління задачами
 ## Опис:
@@ -102,5 +105,16 @@ run {} for 5
 Ця діаграма показує порядок взаємодій між об'єктами в процесі створення та переміщення задач.
 
 ![image](https://github.com/user-attachments/assets/495ebed0-759a-4b83-8181-2763db6f2c46)
+
+# 4. SonarQube та GitHub Actions
+Використати SonarQube й інші інструменти для аналізу метрик коду.
+
+## Налаштування та проходження тестів в SonarQube
+![image](https://github.com/user-attachments/assets/ff5eb6ff-2984-4f8c-8171-d22c29607eda)
+
+## Успішне проходження тестів в поєднанні з GitHub Actions
+![image](https://github.com/user-attachments/assets/eb5c6adc-1393-4859-8a0b-c70a5cfa8451)
+
+![image](https://github.com/user-attachments/assets/f928f1c2-d57b-4377-aee5-a9d2eae5ffcd)
 
 ---
